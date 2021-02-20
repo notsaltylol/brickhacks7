@@ -2,7 +2,9 @@ import React from 'react';
 
 
 const Navigation = () => {
-    <div>Hello world</div>
+    return(
+        <div>Navigation</div>
+    )
 }
 
 export default Navigation;
